@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "yLjFgzNiYKfieU+RoywDodK9v0yeIFiXQA5MRiqU9HA=",
+  "Source": "ReactApp10.Server",
+  "BasePath": "_content/ReactApp10.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\yuu_matsumoto\\Desktop\\program\\ReactApp10\\reactapp10.client\\reactapp10.client.esproj",
+      "Version": 2,
+      "Source": "reactapp10.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

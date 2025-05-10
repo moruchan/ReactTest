@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ReactApp10.Server.props" />
+</Project>
