@@ -6,7 +6,7 @@ const App: React.FC = () => {
     return (
         <div>
             <h1>My React + ASP.NET Core App</h1>
-            <p>Branchi1Ç≈Ç∑</p>
+            <p>Branchi1Ç≈Ç∑<br>Ç‹ÇΩï“èWÇµÇΩÇÊ</p>
             <FetchExample />
         </div>
     );
