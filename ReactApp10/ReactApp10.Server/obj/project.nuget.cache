@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "hhJLLWrAL1g=",
+  "dgSpecHash": "HgclhWTxlvo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\yuu_matsumoto\\Desktop\\program\\ReactApp10\\ReactApp10.Server\\ReactApp10.Server.csproj",
+  "projectFilePath": "C:\\Users\\yuu_matsumoto\\OneDrive\\ドキュメント\\ReactTest\\ReactTest\\ReactApp10\\ReactApp10.Server\\ReactApp10.Server.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\yuu_matsumoto\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\8.0.15\\microsoft.aspnetcore.spaproxy.8.0.15.nupkg.sha512",
+    "C:\\Users\\yuu_matsumoto\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\8.0.16\\microsoft.aspnetcore.spaproxy.8.0.16.nupkg.sha512",
     "C:\\Users\\yuu_matsumoto\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\yuu_matsumoto\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
     "C:\\Users\\yuu_matsumoto\\.nuget\\packages\\swashbuckle.aspnetcore\\6.6.2\\swashbuckle.aspnetcore.6.6.2.nupkg.sha512",

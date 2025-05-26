@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     "net8.0": {
-      "Microsoft.AspNetCore.SpaProxy/8.0.15": {
+      "Microsoft.AspNetCore.SpaProxy/8.0.16": {
         "type": "package",
         "compile": {
           "lib/net8.0/Microsoft.AspNetCore.SpaProxy.dll": {}
@@ -107,10 +107,10 @@
     }
   },
   "libraries": {
-    "Microsoft.AspNetCore.SpaProxy/8.0.15": {
-      "sha512": "Qni1g9jjcyiwkwB/+A9tf4lTJLUTniy/ktxQn+/9fxIjt8/Aqor+Cc5GThOwnz9WlN9L9m43q5WQ7zSx8u+UEA==",
+    "Microsoft.AspNetCore.SpaProxy/8.0.16": {
+      "sha512": "epkhyVdorPlnTz3k839y9UkdaWYLA2I8NCZXCw9AbO4tSnpGrn7ufLv/oy5sl/gLCLHrEkhJX+VmiVN6im427w==",
       "type": "package",
-      "path": "microsoft.aspnetcore.spaproxy/8.0.15",
+      "path": "microsoft.aspnetcore.spaproxy/8.0.16",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -118,7 +118,7 @@
         "THIRD-PARTY-NOTICES.TXT",
         "build/Microsoft.AspNetCore.SpaProxy.targets",
         "lib/net8.0/Microsoft.AspNetCore.SpaProxy.dll",
-        "microsoft.aspnetcore.spaproxy.8.0.15.nupkg.sha512",
+        "microsoft.aspnetcore.spaproxy.8.0.16.nupkg.sha512",
         "microsoft.aspnetcore.spaproxy.nuspec"
       ]
     },
@@ -484,11 +484,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yuu_matsumoto\\Desktop\\program\\ReactApp10\\ReactApp10.Server\\ReactApp10.Server.csproj",
+      "projectUniqueName": "C:\\Users\\yuu_matsumoto\\OneDrive\\ドキュメント\\ReactTest\\ReactTest\\ReactApp10\\ReactApp10.Server\\ReactApp10.Server.csproj",
       "projectName": "ReactApp10.Server",
-      "projectPath": "C:\\Users\\yuu_matsumoto\\Desktop\\program\\ReactApp10\\ReactApp10.Server\\ReactApp10.Server.csproj",
+      "projectPath": "C:\\Users\\yuu_matsumoto\\OneDrive\\ドキュメント\\ReactTest\\ReactTest\\ReactApp10\\ReactApp10.Server\\ReactApp10.Server.csproj",
       "packagesPath": "C:\\Users\\yuu_matsumoto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yuu_matsumoto\\Desktop\\program\\ReactApp10\\ReactApp10.Server\\obj\\",
+      "outputPath": "C:\\Users\\yuu_matsumoto\\OneDrive\\ドキュメント\\ReactTest\\ReactTest\\ReactApp10\\ReactApp10.Server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
